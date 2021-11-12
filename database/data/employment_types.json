@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Permanent"
+    },
+    {
+      "name": "Contract"
+    },
+    {
+      "name": "Director/Owner"
+    },
+    {
+      "name": "Probation"
+    },
+    {
+      "name": "Extended Probation"
+    },
+    {
+      "name": "Resigned"
+    },
+    {
+      "name": "Terminated"
+    },
+    {
+      "name": "End of Contract Agreement"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Private Limited Company"
+    },
+    {
+      "name": "Single Member Company"
+    },
+    {
+      "name": "Public Limited Company"
+    },
+    {
+      "name": "Unlimited Company"
+    },
+    {
+        "name": "Not For Profit Company"
+    },
+    {
+        "name": "Partnership"
+    }
+]

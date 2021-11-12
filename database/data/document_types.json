@@ -1,0 +1,20 @@
+[
+    {
+      "name": "National ID"
+    },
+    {
+      "name": "Passport"
+    },
+    {
+      "name": "Insurance Card"
+    },
+    {
+      "name": "Driving License"
+    },
+    {
+      "name": "Family ID"
+    },
+    {
+      "name": "Other"
+    }
+]
